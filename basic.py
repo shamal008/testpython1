@@ -1,5 +1,5 @@
 # a=10 
-# print(type(a)) #integer
+#  print(type(a)) #integer
 
 # a=10.1
 # print(type(a),a) #float
